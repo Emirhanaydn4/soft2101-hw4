@@ -1,0 +1,73 @@
+STEP A
+git config --global user.name "Emirhan Aydın"
+git config --global user.email "20soft1006@isik.edu.tr"
+git config --global core.editor "nano"
+git config --list
+
+STEP B
+The .git directory contains:
+HEAD
+branches
+config
+description
+hooks
+info
+logs
+objects
+refs
+
+STEP C
+Markdown link:
+[Işık University Software Engineering Department](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+
+STEP D
+.gitignore rules:
+*.class
+*.log
+.idea/
+.vscode/
+Commit message: setting up gitignore
+
+STEP E
+feature-1 branch created and checked out.
+
+STEP F
+feature-1 commits:
+- add README file
+- setting up gitignore
+- satisfying requirement one
+hmk1 contains: RangePrinter.java
+main hmk1 was empty before merge.
+
+STEP G
+feature-1 merged into main.
+
+STEP H
+feature-2 branch created from main.
+
+STEP I
+feature-3 branch created from main.
+
+STEP J
+feature-2 commit:
+satisfying requirement change two
+
+STEP K
+feature-3 commit:
+satisfying requirement change three
+
+STEP L
+feature-2 merged into main.
+
+STEP M
+feature-3 merged into main.
+Differences:
+feature-1 prints all numbers.
+feature-2 prints odd numbers.
+feature-3 prints even numbers.
+
+STEP N
+All branches pushed to origin.
+
+STEP O
+homework4.txt added to hwk4 directory and pushed to main branch.
